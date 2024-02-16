@@ -1,0 +1,120 @@
+.textfeilds {
+    width: 126%;height: 25px;padding: 2px
+}
+
+.labels {
+    top: -4px;
+    font-size: 13px;
+    font-weight: 400;
+}
+.btnbutton {
+   padding-left: 5cm;
+}
+.submitbutton {
+   margin-left:60px;
+}
+.tablerowsize{
+     .topics tr { line-height: 14px; }
+      
+}
+
+.table>tbody>tr>td,.table>tbody>tr>th,.table>tfoot>tr>td,.table>tfoot>tr>th,.table>thead>tr>td,.table>thead>tr>th{padding:3px;line-height:1.42857143;vertical-align:top;border-top:1px solid #ddd}
+
+.table>thead>th{
+    background: brown;
+}
+
+.table > caption + thead > tr:first-child > th,
+.table > colgroup + thead > tr:first-child > th,
+.table > thead:first-child > tr:first-child > th,
+.table > caption + thead > tr:first-child > td,
+.table > colgroup + thead > tr:first-child > td,
+.table > thead:first-child > tr:first-child > td {
+  border-top: 0;
+  background-color: #9cc1ea;
+  font-weight: 500;
+  padding-left: 5px;
+}
+ 
+.marginelement{
+    margin-bottom: 6px;
+     
+}
+
+.form-horizontal .form-group {
+    margin-right: 84px;
+    margin-left: -15px;
+}
+
+.btnlength{
+    width: 100px;
+    height: 25px;
+    padding: 1px
+}
+
+.btnlengthedit{
+    width: 24px;
+    height: 22px;
+    padding: 1px;
+    
+}
+
+table.dataTable thead th.sorting:after,
+table.dataTable thead th.sorting_asc:after,
+table.dataTable thead th.sorting_desc:after {
+    position: absolute;
+    top: 2px;
+    right: 8px;
+    display: block;
+     
+}
+.paddingmin{
+    padding-top:0px;   
+}
+.pageleft{
+    padding-left: 0px;
+}
+
+.sucessmsg{
+    margin-top:-5px;
+    background-color: lightgreen;
+    padding-left:10px;
+}
+
+
+.datetext{
+    width: 150px;
+}
+
+
+#bordersty{
+    border-color: #017ebc
+}
+#btnborder{
+    margin-left: -9px;
+}
+#heders{
+	padding: 3px;
+}
+
+.jpprogressupdate{
+	margin-top:-18px;
+}
+
+.jpvolumecontrolsupdate{
+	margin-top:-18px;
+}
+
+.jptimeholderupate{
+	margin-top:-23px;
+}
+
+.tbclass{
+	width:1082px;
+}
+
+.downlodbtn{
+	margin-left:950px;
+	margin-top:-60px;
+}
+

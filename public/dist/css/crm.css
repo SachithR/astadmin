@@ -1,0 +1,155 @@
+body {
+	margin-top: 0px;
+}
+.buttons {
+	font-family: Tahoma, Calibri, "Arial Black";
+	font-size: 12px;
+	font-weight: bold;
+	background-image: url(img/bg-dark.png);
+	background-repeat: repeat-x;
+	border: 1px solid #666666;
+	height: 30px;
+}
+.fromfilds {
+	font-family: Tahoma, Calibri, "Arial Black";
+	font-size: 12px;
+	background-image: url(img/bg-dark.png);
+	background-repeat: repeat-x;
+	border: 1px solid #666666;
+	height: 30px;
+}
+
+
+
+a:link {
+	color: #143dd6;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #1a55b9;
+}
+.text_bg_wit_colour {
+	background-color: #F5F5F5;
+	border: 1px solid #EBEBEB;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #1a55b9;
+}
+a:active {
+	text-decoration: none;
+	color: #143dd6;
+}
+
+.hedder_bg {
+	background-color: #C10000;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #B30000;
+	border-bottom-color: #B30000;
+	border-left-color: #B30000;
+	border-top-color: #B30000;
+}
+.menu_button {
+	font-family: Tahoma, Calibri, "Arial Black";
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #BE0000;
+	border: 1px solid #A40000;
+}
+
+.login_info_text {
+	font-family: Tahoma, Calibri, "Arial Black";
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.text_bold {
+	font-family: Tahoma, Calibri, "Arial Black";
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	/*background-color: #e4e6ea;
+	border: 1px dashed #DBDBDB; */
+}
+.red_font {
+	color: #FF0000;
+}
+
+
+.company_name_text {
+	font-family: Tahoma, Calibri, "Arial Black";
+	font-size: 14px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.button_example{
+border:1px solid #c70000; -webkit-border-radius: 3px; -moz-border-radius: 3px;border-radius: 3px;font-size:12px;font-family:arial, helvetica, sans-serif; padding: 5px 5px 5px 5px; text-decoration:none; display:inline-block;text-shadow: -1px -1px 0 rgba(0,0,0,0.3);font-weight:bold; color: #FFFFFF;
+ background-color: #f62b2b; background-image: -webkit-gradient(linear, left top, left bottom, from(#f62b2b), to(#d20202));
+ background-image: -webkit-linear-gradient(top, #f62b2b, #d20202);
+ background-image: -moz-linear-gradient(top, #f62b2b, #d20202);
+ background-image: -ms-linear-gradient(top, #f62b2b, #d20202);
+ background-image: -o-linear-gradient(top, #f62b2b, #d20202);
+ background-image: linear-gradient(to bottom, #f62b2b, #d20202);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#f62b2b, endColorstr=#d20202);
+}
+.buttonbg {
+	/* background-image: url(buttonbg.png); */
+	background-repeat: repeat-x; 
+	/*border: 1px solid #9ca0bb; */
+}
+
+.button_example:hover{
+ border:1px solid #b30808;
+ background-color: #e40a0a; background-image: -webkit-gradient(linear, left top, left bottom, from(#e40a0a), to(#9f0202));
+ background-image: -webkit-linear-gradient(top, #e40a0a, #9f0202);
+ background-image: -moz-linear-gradient(top, #e40a0a, #9f0202);
+ background-image: -ms-linear-gradient(top, #e40a0a, #9f0202);
+ background-image: -o-linear-gradient(top, #e40a0a, #9f0202);
+ background-image: linear-gradient(to bottom, #e40a0a, #9f0202);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#e40a0a, endColorstr=#9f0202);
+}
+.treeview ul{ /*CSS for Simple Tree Menu*/
+margin: 0;
+padding: 0;
+}
+
+.treeview li{ /*Style for LI elements in general (excludes an LI that contains sub lists)*/
+background: white url(list.gif) no-repeat left center;
+list-style-type: none;
+padding-left: 10px;
+margin-bottom: 3px;
+}
+
+.treeview li.submenu{ /* Style for LI that contains sub lists (other ULs). */
+/*background: white url(closed.gif) no-repeat left 1px; */
+cursor: hand !important;
+cursor: pointer !important;
+}
+
+
+.treeview li.submenu ul{ /*Style for ULs that are children of LIs (submenu) */
+display: none; /*Hide them by default. Don't delete. */
+}
+
+.treeview .submenu ul li{ /*Style for LIs of ULs that are children of LIs (submenu) */
+cursor: default;
+}
+
+p {
+	margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+.text_bold_don {
+    font-family: Tahoma, Calibri, "Arial Black";
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000;
+    background-color: #90dc9a;
+    border: 1px dashed #DBDBDB;
+}
